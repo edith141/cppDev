@@ -13,3 +13,5 @@ void incMWithRef(int& x)
 {
     x+=1;
 }
+
+static int score = 0;

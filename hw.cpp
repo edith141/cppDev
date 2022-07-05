@@ -34,4 +34,3 @@ int main() {
     'a';
     std::cin.get();
 }
-
